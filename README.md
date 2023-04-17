@@ -25,3 +25,5 @@ Data field description:
 - complaint_status:	Whether the complaints raised by a customer was resolved
 - feedback:	Feedback provided by a customer
 - churn_risk_score:	Churn score 0 : Not churn, 1 : Churn
+
+Model deployment link: https://huggingface.co/spaces/andreetanjung/Milestone1-phase2
